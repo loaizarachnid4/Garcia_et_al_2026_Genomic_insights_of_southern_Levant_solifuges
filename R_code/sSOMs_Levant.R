@@ -153,7 +153,7 @@ dev.off()
 
 library(ggplot2)
 library(ggmap)
-register_stadiamaps("657a5379-96bd-4ec7-a75f-73b6ff680fdf")
+register_stadiamaps("#") #api key
 library(maps)
 library(mapproj)
 library(mapdata)
